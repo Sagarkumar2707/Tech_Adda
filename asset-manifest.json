@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Tech_Adda/static/css/main.d0f9ed20.css",
-    "main.js": "/Tech_Adda/static/js/main.e4c3798a.js",
+    "main.css": "/Tech_Adda/static/css/main.7057c502.css",
+    "main.js": "/Tech_Adda/static/js/main.6d73d368.js",
     "static/js/787.0c3f432a.chunk.js": "/Tech_Adda/static/js/787.0c3f432a.chunk.js",
+    "static/media/lapko.jpg": "/Tech_Adda/static/media/lapko.309ef3e441bb095152ed.jpg",
     "static/media/hea1.jpg": "/Tech_Adda/static/media/hea1.dc2386299690c1c618aa.jpg",
     "static/media/iphone_3.jpg": "/Tech_Adda/static/media/iphone_3.e72b797bda603214a433.jpg",
-    "static/media/Laptop.jpg": "/Tech_Adda/static/media/Laptop.b78d444e18ce3415c008.jpg",
     "static/media/iphone-11_pro.jpeg": "/Tech_Adda/static/media/iphone-11_pro.b03ed2bb5ad432c2a7f0.jpeg",
     "static/media/Vivo.png": "/Tech_Adda/static/media/Vivo.98b81f0c051335f549fd.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Tech_Adda/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -16,15 +16,17 @@
     "static/media/Contact.jpg": "/Tech_Adda/static/media/Contact.e496eb5c20ac2b080a11.jpg",
     "static/media/Vivo-V11-3.jpg": "/Tech_Adda/static/media/Vivo-V11-3.bd78e2dc8c6cbe7f8d53.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Tech_Adda/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Asus.jpg": "/Tech_Adda/static/media/Asus.fc67e031e157627b19b3.jpg",
     "static/media/VivoY.jpg": "/Tech_Adda/static/media/VivoY.d038e89442f0098d540e.jpg",
     "static/media/Iphone13.jpg": "/Tech_Adda/static/media/Iphone13.fbd90833cc52ca2da6e4.jpg",
+    "static/media/boat.jpg": "/Tech_Adda/static/media/boat.82150f4476747e5daaca.jpg",
     "index.html": "/Tech_Adda/index.html",
-    "main.d0f9ed20.css.map": "/Tech_Adda/static/css/main.d0f9ed20.css.map",
-    "main.e4c3798a.js.map": "/Tech_Adda/static/js/main.e4c3798a.js.map",
+    "main.7057c502.css.map": "/Tech_Adda/static/css/main.7057c502.css.map",
+    "main.6d73d368.js.map": "/Tech_Adda/static/js/main.6d73d368.js.map",
     "787.0c3f432a.chunk.js.map": "/Tech_Adda/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0f9ed20.css",
-    "static/js/main.e4c3798a.js"
+    "static/css/main.7057c502.css",
+    "static/js/main.6d73d368.js"
   ]
 }
