@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tech_Adda/static/css/main.7057c502.css",
-    "main.js": "/Tech_Adda/static/js/main.6d73d368.js",
+    "main.css": "/Tech_Adda/static/css/main.7ccbde91.css",
+    "main.js": "/Tech_Adda/static/js/main.38b7b361.js",
     "static/js/787.0c3f432a.chunk.js": "/Tech_Adda/static/js/787.0c3f432a.chunk.js",
     "static/media/lapko.jpg": "/Tech_Adda/static/media/lapko.309ef3e441bb095152ed.jpg",
     "static/media/hea1.jpg": "/Tech_Adda/static/media/hea1.dc2386299690c1c618aa.jpg",
@@ -12,21 +12,26 @@
     "static/media/preview.jpg": "/Tech_Adda/static/media/preview.7ec2214b5170129f2715.jpg",
     "static/media/fontawesome-webfont.eot": "/Tech_Adda/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Tech_Adda/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/parsal.jpg": "/Tech_Adda/static/media/parsal.9b5bdbc958b265f4d6c0.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Tech_Adda/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/Contact.jpg": "/Tech_Adda/static/media/Contact.e496eb5c20ac2b080a11.jpg",
     "static/media/Vivo-V11-3.jpg": "/Tech_Adda/static/media/Vivo-V11-3.bd78e2dc8c6cbe7f8d53.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Tech_Adda/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Poco.jpg": "/Tech_Adda/static/media/Poco.40321383aff3b6f02855.jpg",
     "static/media/Asus.jpg": "/Tech_Adda/static/media/Asus.fc67e031e157627b19b3.jpg",
     "static/media/VivoY.jpg": "/Tech_Adda/static/media/VivoY.d038e89442f0098d540e.jpg",
+    "static/media/redmi.jpg": "/Tech_Adda/static/media/redmi.72837dcfd5300d99b4a2.jpg",
+    "static/media/watch.jpg": "/Tech_Adda/static/media/watch.3d99030ff5ae4487715e.jpg",
+    "static/media/Oneplus.jpg": "/Tech_Adda/static/media/Oneplus.b4824e2fa7057a15b431.jpg",
     "static/media/Iphone13.jpg": "/Tech_Adda/static/media/Iphone13.fbd90833cc52ca2da6e4.jpg",
     "static/media/boat.jpg": "/Tech_Adda/static/media/boat.82150f4476747e5daaca.jpg",
     "index.html": "/Tech_Adda/index.html",
-    "main.7057c502.css.map": "/Tech_Adda/static/css/main.7057c502.css.map",
-    "main.6d73d368.js.map": "/Tech_Adda/static/js/main.6d73d368.js.map",
+    "main.7ccbde91.css.map": "/Tech_Adda/static/css/main.7ccbde91.css.map",
+    "main.38b7b361.js.map": "/Tech_Adda/static/js/main.38b7b361.js.map",
     "787.0c3f432a.chunk.js.map": "/Tech_Adda/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7057c502.css",
-    "static/js/main.6d73d368.js"
+    "static/css/main.7ccbde91.css",
+    "static/js/main.38b7b361.js"
   ]
 }
